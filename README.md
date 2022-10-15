@@ -1,2 +1,3 @@
 # Data-analysis-and-visualization-
-Learning and practice
+Practicing data analysis and visualization using numpy and pandas
+
